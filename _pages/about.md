@@ -41,7 +41,7 @@ Pattern Recognition, 2025 <br>
   <span style="white-space:nowrap;">Mar 2025 – Mar 2026</span>
 </div>
 &#45; Sponsored by [Hyundai Glovis](https://www.glovis.net/)<br>
-&#45; Developed a Multi-Modal LLM-based pipeline that automatically extracts text and image information from diverse logistics documents (BillingInvoice, InboundPOD, OutboundPOD)
+&#45; Developed a Multi-Modal LLM-based pipeline that automatically extracts text and image information from diverse logistics documents (BillingInvoice, InboundPOD, OutboundPOD).
 
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
   <strong>3D Perception Technology for Autonomous Pallet Stacker</strong>
