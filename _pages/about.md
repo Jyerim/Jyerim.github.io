@@ -40,7 +40,7 @@ Pattern Recognition, 2025 <br>
   <strong>GUS HT Document Recognition AI for Logistics Automation</strong>
   <span style="white-space:nowrap;">Mar 2025 – Mar 2026</span>
 </div>
-Sponsored by <a href="https://www.glovis.net/">Hyundai Glovis<br>
+Sponsored by <a href="https://www.glovis.net/">Hyundai Glovis</a><br>
 Developed a Multi-Modal LLM-based pipeline that automatically extracts text and image information from diverse logistics documents (BillingInvoice, InboundPOD, OutboundPOD).<br>
 
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
