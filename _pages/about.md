@@ -52,7 +52,7 @@ Pattern Recognition, 2025 <br>
 &#45; Developed an RGB stereo-based perception technology for recognizing truck-loading and open-yard stacking environments.
 
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
-  <strong>AI-based Detection of Manipulated Images/Videos for Criminal Investigation</strong>
+  <strong>Detection of Manipulated Images/Videos for Criminal Investigation</strong>
   <span style="white-space:nowrap;">Jan 2023 – Dec 2023</span>
 </div>
 &#45; Sponsored by IITP<br>
