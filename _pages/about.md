@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am **Yerim Jeon**, a Ph.D. candidate at Sungkyunkwan University (SKKU), South Korea, working in the Visual Computing Lab (VCLab) under the supervision of **Prof. Jae-Pil Heo**. Prior to my Ph.D., I received both my B.S. and M.S. degrees from the same institution.
+Hello, I am **Yerim Jeon**, a Ph.D. candidate at Sungkyunkwan University (SKKU), South Korea, working in the [Visual Computing Lab (VCLab)](https://sites.google.com/site/vclabskku) under the supervision of **[Prof. Jae-Pil Heo](https://sites.google.com/site/jaepilheo)**. Prior to my Ph.D., I received both my B.S. and M.S. degrees from the same institution.
 
 My research focuses on multimodal large language models (MLLMs) for 3D scene understanding. Specifically, I am interested in how MLLMs can interpret and  reason about 3D scenes through natural language, bridging 3D perception and language understanding.
 
