@@ -73,7 +73,7 @@
   }
 
   a {
-    color: #2962ff;
+    color: var(--global-link-color);
     text-decoration: none;
 
     &:hover {
