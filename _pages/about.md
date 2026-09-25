@@ -13,7 +13,10 @@ My research focuses on multimodal large language models (MLLMs) for 3D scene und
 
 ## Publications
 <div id="publications"></div>
-
+**Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization**<br>
+Miso Lee, Sangeek Hyun, <u>Yerim Jeon</u>, Jae-Pil Heo <br>
+Conference on Neural Information Processing Systems (NeurIPS), 2026 <br>
+[arXiv](https://arxiv.org/abs/2605.07351) <br>
 **Masking Matters: Unlocking the Spatial Reasoning Capabilities of LLMs for 3D Scene-Language Understanding**<br>
 <u>Yerim Jeon</u>, Miso Lee, WonJun Moon, Jae-Pil Heo <br>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026 <br>
